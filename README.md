@@ -1,6 +1,6 @@
 <h1 align='center'>Hazhir Yousefi</h1>
 
-<h3 align="center">Software Engineer | Mobile | Backend | Embedded Systems</h3>
+<h3 align="center">Software Engineer | Mobile | Backend | AI Embedded Systems</h3>
 
 <p align="center">
   Building useful software, from mobile applications
@@ -63,3 +63,5 @@
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Hazhir2002&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hazhir2002&layout=compact&theme=tokyonight)
+
+![Me Coding](./assets/monkey_coding.gif)
