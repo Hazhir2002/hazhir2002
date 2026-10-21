@@ -62,8 +62,4 @@
 
 <!-- ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hazhir2002&layout=compact&theme=tokyonight) -->
 
-<p align="center">
-  <img src="./assets/monkey_coding.gif" width="300px" align="left" style="margin-right: 20px;" />
- I'm working on this...
-</p>
-<br clear="all"/>
+![Me Coding](./assets/monkey_coding.gif) I'm working on this...
