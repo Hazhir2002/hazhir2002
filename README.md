@@ -62,15 +62,8 @@
 
 <!-- ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hazhir2002&layout=compact&theme=tokyonight) -->
 
-<table>
-  <tr>
-    <td align="center" width="40%">
-      <img src="./assets/monkey_coding.gif" width="250px" alt="Me Coding">
-    </td>
-    <td width="60%">
-      <p>
-        I'm working on this...
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/monkey_coding.gif" width="300px" align="left" style="margin-right: 20px;" />
+ I'm working on this...
+</p>
+<br clear="all"/>
