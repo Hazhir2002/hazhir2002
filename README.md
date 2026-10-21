@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Mobile | Backend | AI Embedded Systems</h3>
 
 <p align="center">
-  Building useful software, from mobile applications
+  Building software, from mobile applications
   to backend systems and hardware integrations.
 </p>
 
@@ -53,15 +53,24 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Featured Projects
+<!-- ## Featured Projects
 
 - **Modaam** — Mobile applications and hardware-integrated kiosk software.
-- **Pettaio** — Pet-care platform with a backend API and AI-assisted features.
+- **Pettaio** — Pet-care platform with a backend API and AI-assisted features. -->
 
-## GitHub Stats
+<!-- ## GitHub Stats -->
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Hazhir2002&show_icons=true&theme=tokyonight)
+<!-- ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hazhir2002&layout=compact&theme=tokyonight) -->
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hazhir2002&layout=compact&theme=tokyonight)
-
-![Me Coding](./assets/monkey_coding.gif)
+<table>
+  <tr>
+    <td align="center" width="40%">
+      <img src="./assets/monkey_coding.gif" width="250px" alt="Me Coding">
+    </td>
+    <td width="60%">
+      <p>
+        I'm working on this...
+      </p>
+    </td>
+  </tr>
+</table>
